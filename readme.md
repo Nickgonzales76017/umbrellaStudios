@@ -69,13 +69,13 @@ You'll need [Node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/) ins
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kevinshen56714/SkyOffice.git
+https://github.com/Nickgonzales76017/umbrellaStudios
 ```
 
 This will create a folder named `SkyOffice`. You can specify a different folder name like this:
 
 ```bash
-git clone https://github.com/kevinshen56714/SkyOffice.git my-folder-name
+https://github.com/Nickgonzales76017/umbrellaStudios my-folder-name
 ```
 
 To start a server, go into the project folder and install dependencies/run start command:
